@@ -1,6 +1,4 @@
-import rh.Aluno;
-import rh.Pessoa;
-import rh.Professor;
+package com.sistema.janelas;
 
 public class Main {
 
